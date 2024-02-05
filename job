@@ -1,0 +1,6 @@
+#!/bin/bash
+while true
+do
+        echo "Keep my jobs..."
+        sleep 10m
+done
